@@ -18,7 +18,7 @@ dataset/
 
 
 Steps Involved
-1. Impage Processing: - Rescale the images to a common size e.g. 224x224 or 255x255.
+1. Image Processing: - Rescale the images to a common size e.g. 224x224 or 255x255.
 2. Normalize pixel values to be in range [0,1] or [-1,1].
 3. ImageDataGenerator for loading/augmenting images. 
 3. Build the CNN model. 
